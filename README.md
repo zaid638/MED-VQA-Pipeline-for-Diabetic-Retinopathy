@@ -7,5 +7,4 @@ A model takes an image and text and outputs a natural-language answer. A typical
 
 - [Fine-Tuning LLAVA — A Practical Guide](https://medium.com/@whyamit101/fine-tuning-llava-a-practical-guide-af606165a54c)<br/>
 
-- [Fine-Tuning LLaVA-Med for Medical Imaging](https://medium.com/@sahaja2001vsj/fine-tuning-llava-med-for-medical-imaging-31e981a490af)
-- [code](https://github.com/Veda0718/LLaVA-Med-Finetuning)<br/>
+- [Fine-Tuning LLaVA-Med for Medical Imaging](https://medium.com/@sahaja2001vsj/fine-tuning-llava-med-for-medical-imaging-31e981a490af) [code](https://github.com/Veda0718/LLaVA-Med-Finetuning)<br/>
